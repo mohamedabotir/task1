@@ -41,6 +41,9 @@ color: black;
     color: black;
     background-color: white;
 }
+.nav-bar #mark:visited{
+    color: black;
+}
 .picture img{
     width: 100%;
     height: 250px;
