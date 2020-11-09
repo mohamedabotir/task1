@@ -35,9 +35,10 @@ color: black;
 
 .nav-bar #mark{
 float: left;
+color: black;
 }
-.nav-bar #mark{
-    color: gray;
+.nav-bar #mark:hover{
+    color: black;
     background-color: white;
 }
 .picture img{
