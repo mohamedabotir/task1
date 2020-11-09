@@ -17,11 +17,12 @@ font-size: 20px;
 font-family: sans-serif;
 display: inline-block;
 padding: 5px;
+color: black;
 
 }
 .nav-bar li>a{
     text-decoration: none;
-
+color: black;
 }
 .nav-bar li:hover{
     color: rgb(74, 74, 78);
@@ -35,8 +36,8 @@ color: black;
 .nav-bar #mark{
 float: left;
 }
-.nav-bar #mark:hover{
-    color: black;
+.nav-bar #mark{
+    color: gray;
     background-color: white;
 }
 .picture img{
